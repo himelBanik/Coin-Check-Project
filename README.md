@@ -29,7 +29,7 @@ Install my-project with npm
   or 
   yarn install
 ```
-After That
+After that
 ```bash
   npm start
 ```
