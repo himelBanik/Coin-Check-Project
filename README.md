@@ -19,6 +19,7 @@ A Cryptocurrency web-app to track latest cryptocurrency updates and market cap.
 - ChartJs
 - Material Ui
 - Firebase
+- MVC Pattern
 
 ## Installation
 
