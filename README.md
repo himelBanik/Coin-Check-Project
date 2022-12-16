@@ -11,6 +11,7 @@ A Cryptocurrency web-app to track latest cryptocurrency updates and market cap.
 - Current price and change
 - Market price and cap
 - Price changes in last 1 year
+- Price in both Taka and USD
 - Login and wishlist
 
 
